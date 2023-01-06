@@ -1,0 +1,60 @@
+.nav-title {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+* {}
+
+.text-p {
+    color: orange;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+
+nav li {
+    list-style: none;
+    margin: 50px;
+ 
+
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+}
+
+.btn-p {
+    background-color: orange;
+    height: 64px;
+    padding: 18px 35px;
+    border-redius: 5px; 
+    font-size: 25px;
+
+}
+/* banner style */
+.banner{
+    margin: o 200px;
+    display: flex;
+    align-items: center;
+}
+.banner-s-t{
+    font-weight: 600;
+    font-size: 45px;
+}
+.banner-t{
+    font-weight: 700;
+    font-size: 85px;
+}
+.banner-d{
+    font-size: 16px;
+    font-weight: 400;
+    color: darkcyan;
+    margin-bottom: 30px;
+}
+.header{
+      background-color: #FFF8F3;
+}
